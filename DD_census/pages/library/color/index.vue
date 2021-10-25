@@ -10,6 +10,9 @@
 					晓镜但愁云鬓改，夜吟应觉月光寒
 				</view>
 			</view>
+			<view>
+				测试git
+			</view>
 		</view>
 		<view class="u-config-wrap">
 			<view class="u-config-title u-border-bottom">
