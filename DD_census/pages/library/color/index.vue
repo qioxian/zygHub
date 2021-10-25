@@ -11,7 +11,7 @@
 				</view>
 			</view>
 			<view>
-				测试git
+				测试git55555
 			</view>
 		</view>
 		<view class="u-config-wrap">
