@@ -13,7 +13,7 @@
 				参数配置
 			</view>
 			<view class="u-config-title u-border-bottom">
-				测试
+				测试认为热热为
 			</view>
 			<view class="u-config-item">
 				<view class="u-item-title">GRB转HEX</view>
